@@ -1,7 +1,8 @@
-# Code-wars-3-Editorial
+# Codewars 3.0, RVCE - Editorial
 
-Conducted By Coding Club,RVCE
+Conducted By **Coding Club, RVCE**
 
-Contest link - www.hackerrank.com/codewars-3-rvce
+Contest link - [HackerRank](https://www.hackerrank.com/codewars-3-rvce)  
+Coding Club - [Facebook](https://www.facebook.com/codingclubrvce/)
 
 Date : 27/02/2019
