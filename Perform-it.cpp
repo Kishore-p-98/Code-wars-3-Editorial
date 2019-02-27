@@ -1,3 +1,22 @@
+Perform it : https://www.hackerrank.com/contests/codewars-3-rvce/challenges/perform-it
+
+Complexity - O(n)
+
+----------------------------------------------------------------------------------------
+
+Solution : 
+
+Let us define cost of subbarray as sum of minimum and maximum
+
+The problem basically demands to find the minimum cost of all possible sub-arrays of length atleast two.
+
+  Observation : Considering each element as minimum . We observe it is optimal to choose adjacent element as other element 
+               because as we move away ,our max is increase or remain same but never decrease.
+
+-------------------------------------------------------------------
+      
+Code :      
+
 #include <bits/stdc++.h>
 
 using namespace std;
