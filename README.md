@@ -1,4 +1,4 @@
-# Code-wars-3-Editorial
+# Codewars 3.0, RVCE - Editorial
 
 Conducted By Coding Club,RVCE
 
