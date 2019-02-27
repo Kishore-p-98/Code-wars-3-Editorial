@@ -1,5 +1,8 @@
 Colors : https://www.hackerrank.com/contests/codewars-3-rvce/challenges/colors-1
 
+Complexity : O(n)
+
+Solution :
 The problem reduces to find the value of maximum of frequency of elements in the given array.
 
 CODE :
